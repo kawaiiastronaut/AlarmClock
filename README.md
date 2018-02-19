@@ -1,2 +1,2 @@
 # AlarmClock
-![GitHub Logo](/use_case_diagram.png)
+![Alarm Clock Use Case Diagram](/use_case_diagram.png)
